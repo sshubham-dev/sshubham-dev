@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Shubham Kumar - Software Developer & Data Enthusiast
+# Shubham Kumar - Developer 
 
 ## 🌟 About Me
 
