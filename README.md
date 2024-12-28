@@ -1,9 +1,9 @@
 ## Hi there 👋
-# Shubham Kumar - Developer 
+# Shubham Kumar - Programming Enthusiast
 
 ## 🌟 About Me
 
-Hello! I’m **Shubham Kumar**, a passionate **software developer** and **data enthusiast**. I am currently pursuing a **Diploma in Computer Science** from **Jharkhand Rai University, Ranchi** and working at **Bhuvi Consultants**, a leading building design & construction company. 
+Hello! I’m **Shubham Kumar**, a passionate **developer** and **tech enthusiast**. I am currently pursuing a **Diploma in Computer Science** from **Jharkhand Rai University, Ranchi** and working at **Bhuvi Consultants**, a leading building design & construction company. 
 
 I specialize in developing **Web-Based Management Systems** **(CRM, ERP, Custom Industry-Specific Management Systems)**. 
 
